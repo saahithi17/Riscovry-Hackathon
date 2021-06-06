@@ -1,0 +1,17 @@
+Cancer
+Corona
+BlackFungus
+Fever
+Cold
+YellowFungus
+Cough
+Sugar
+LowBloodPressure
+LowBP
+HighBP
+Heartattack
+Diabetes
+Heart 
+Nothing
+None
+No

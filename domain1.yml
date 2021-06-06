@@ -1,0 +1,10 @@
+intents:
+- q1
+
+slots:
+  diseases:
+    type: text
+
+entities:
+- diseases
+
